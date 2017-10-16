@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Drinking Hazards</string>
+    <string name="mainMenu_joinGame">Join a game!</string>
+    <string name="mainMenu_createGame">Create new game!</string>
+    <string name="mainMenu_options">Options</string>
+    <string name="joinScreen_roomKey">Enter Pairing Code</string>
+    <string name="joinScreen_joinButton">Join Game</string>
+    <string name="app_back">&#60;</string>
 </resources>
