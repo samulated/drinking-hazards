@@ -6,4 +6,10 @@
     <string name="joinScreen_roomKey">Enter Pairing Code</string>
     <string name="joinScreen_joinButton">Join Game</string>
     <string name="app_back">&#60;</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="card_back_title">Test Title</string>
+    <string name="card_back_description">Test description of card animation.</string>
+    <string name="description_image_1">Description of image</string>
 </resources>
